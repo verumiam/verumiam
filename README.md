@@ -1,3 +1,8 @@
+
+# About me
+✨ Hi there! I'm Danil, a front-end developer who loves TypeScript. I'm passionate about creating interactive and high-quality user experiences on the web.
+
+# Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verumiam&show_icons=true&theme=dracula)](https://github.com/verumiam/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=verumiam&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
