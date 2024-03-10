@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verumiam)](https://github.com/verumiam/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=verumiam&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **verumiam/verumiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
